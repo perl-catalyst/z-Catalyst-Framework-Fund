@@ -23,6 +23,8 @@ Kind Regards
 
 1.2 The Catalyst Framework (hereafter Catalyst) for the purposes of interpreting this document, is defined as being written in the Perl language, is available to download from the cpan.org software repository website, is published under the same terms as the Perl 5 interpreter at the time of the Funds inauguration, is software that in Perl terminology uses the Catalyst:: or CatalystX:: namespace, is a dependency of software using the Catalyst:: or CatalystX:: namespaces, or documentation related to the software mentioned if licensed under a permissive license.
 
+1.3 This charter document is a pledge to donors not a bylaw
+
 
 ## 2.0 The Catalyst Framework Fund
 
@@ -39,7 +41,7 @@ Kind Regards
 
 3.1 The duration of The Fund is 24 months, after which it may be extended or discontinued at the sole discretion of the Perl Foundation Board (the Board).
 
-3.2 At any time, the Board my discontinue the Fund with remaining contributions being dealt with as described elsewhere in this Charter.
+3.2 At any time, the Board may discontinue the Fund with remaining contributions being dealt with as described elsewhere in this Charter.
 
 
 ## 4.0 Catalyst Fund Committee
