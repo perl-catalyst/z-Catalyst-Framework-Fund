@@ -36,6 +36,7 @@ Kind Regards
 
 2.4 For the purposes of US tax law, TPF is the entity receiving and dispensing all money.
 
+2.5 The Fund operates seperately and independently of TPF Grants Committee.
 
 ## 3.0 Fund Duration
 
@@ -50,7 +51,7 @@ Kind Regards
 
 4.2 All Committee members must remain in good standing with TPF for the duration of their appointment.
 
-4.3 The TPF President and TPF Secretary are not eligible to be members of the Committee, due to their special roles in this Charter.
+4.3 The TPF President, TPF Treasurer, and TPF Secretary are not eligible to be members of the Committee, due to their special roles in this Charter.
 
 4.4 The majority of Committee members shall be known to the Board to be active contributors to The Catalyst Framework.
 
@@ -59,7 +60,7 @@ Kind Regards
 4.6 The Committee may appoint one or more persons to the role of Fund Secretary.
 
 
-## 5.0 Committee Secretary
+## 5.0 Fund Secretary
 
 5.1 Is a person in good standing with TPF.
 
@@ -67,10 +68,10 @@ Kind Regards
 
 5.3 May be a person who is also a Committee member.
 
-5.4 Both the President and Secretary of TPF may not be Committee Secretary, due to their special roles in this Charter.
+5.4 The President, Treasurer, and Secretary of TPF may not be Committee Secretary, due to their special roles in this Charter.
 Performs duties as approved by the Committee.
 
-5.5 May receive compensation for their time and reimbursement for expenses required for the execution of their approved duties, as approved by the Committee and TPF Secretary.
+5.5 May receive compensation for their time and reimbursement for expenses required for the execution of their approved duties, as approved by the Committee and TPF Treasurer.
 
 
 ## 6.0 Committee Responsibilities
@@ -88,7 +89,7 @@ Performs duties as approved by the Committee.
  - To receive all proposals for funding made to the Committee
  - To review all proposals, including unsolicited proposals, at a meeting no less than 5 weeks after submission
  - Ensure sufficient money is available in the Fund before accepting proposals
- - Review all approved proposals and make recommendations to TPF Secretary for Funds to be released.
+ - Review all approved proposals and make recommendations to TPF Treasurer for Funds to be released.
  - Support approved proposals through to completion
  - Provide a public report to the Board every 6 months, including financials of The Fund
 
@@ -109,7 +110,7 @@ Performs duties as approved by the Committee.
 
 7.6 Shall begin only with a majority of Committee members present (a quorum).
 
-7.7 A member of the ommittee will act as the Chairperson for each meeting.
+7.7 A member of the Committee will act as the Chairperson for each meeting.
 
 7.8 The Chairperson shall ensure meetings are conducting in an orderly and timely fashion.
 
@@ -119,14 +120,14 @@ Performs duties as approved by the Committee.
 
 7.11 A person acting as proxy may only do so for one Committee member per meeting.
 
-7.12 A person acting as proxy cannot nominate a further proxy, the vote may only return to the Committee member.
+7.12 A person acting as proxy cannot nominate a further proxy, the proxy may only return to the Committee member.
 
 7.13 A person acting as proxy may not act as proxy for the same Committee member for more than one consecutive meeting.
 
 
 ## 8.0 How money contributed to the Fund will be used
 
-8.1 Money from the Fund is paid by the Secretary of TPF to individuals or organizations as recommended by the Committee.
+8.1 Money from the Fund is paid by the Treasurer of TPF to individuals or organizations as recommended by the Committee.
 
 8.2 Payments are to be made after a Proposal has been made to the Committee and approved by them.
 
@@ -136,7 +137,7 @@ Performs duties as approved by the Committee.
 
 8.5 Advance payments, milestone payments, and final payments shall be made at the discretion of the Committee.
 
-8.6 Individuals and organizations agree to make payment details available to TPF Secretary and that payments are forfeited if unable to be made within 12 months of them being recommended and approved.
+8.6 Individuals and organizations agree to make payment details available to TPF Treasurer and that payments are forfeited if unable to be made within 12 months of them being recommended and approved.
 
 8.7 If attribution of contributions to activities is required, contributions are spent on a first in first out basis.
 
@@ -158,9 +159,11 @@ Performs duties as approved by the Committee.
 - Criteria for evaluating success
 - Evidence the individual or organization can complete the proposal
 
-9.4 Proposals will be reviewed by the Committee and accepted by a majority vote
+9.4 Proposals will be reviewed by the Committee and accepted by a majority vote.
 
-9.5 Committee members shall not approve payment for, review, or vote on Proposals submitted by themselves or members of their immediate family or organizations they or their immediate family have a commercial interest in. Instead, TPF President will appoint a Board member to act on the member's behalf.
+9.5 Committee members, TPF President, TPF Secretary and the Board members shall not approve payment for, review, or vote on Proposals submitted by themselves or members of their immediate family or organizations they or their immediate family have a commercial interest in. Instead, TPF President will appoint a Board member or TPF Secretary to act on the member's behalf and TPF Secretary will appoint a Board member to vote on TPF Presidents behalf.
+
+9.7 If a quorom cannot be established because of 9.5 then the Proposal is declined.
 
 ## 10. Amending This Charter
 
