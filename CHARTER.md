@@ -141,7 +141,7 @@ Performs duties as approved by the Committee.
 
 8.7 If attribution of contributions to activities is required, contributions are spent on a first in first out basis.
 
-8.8 At the conclusion of the Fund, the Board agrees to settle all remaining liabilities and commitments, with any and all remaining money contributed to The Perl Maintenance Fund.
+8.8 At the conclusion of the Fund, the Board agrees to settle all remaining liabilities and commitments, with any and all remaining money contributed to the Perl General Fund.
 
 
 ## 9.0 Proposals for Funding
