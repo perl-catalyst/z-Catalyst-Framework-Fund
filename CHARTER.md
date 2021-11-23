@@ -25,7 +25,6 @@ Kind Regards
 
 1.3 This Charter document is a pledge to donors. It is not a bylaw.
 
-
 ## 2.0 The Catalyst Framework Fund
 
 2.1 The Fund is money held by The Perl Foundation (TPF) contributed by donors to be used only as described in this Charter.
@@ -44,7 +43,6 @@ Kind Regards
 
 3.2 At any time, the Board may discontinue the Fund with remaining contributions being dealt with as described elsewhere in this Charter.
 
-
 ## 4.0 Catalyst Fund Committee
 
 4.1 The Catalyst Fund Committee (the Committee) is three or more individuals appointed by the Board to administer the Fund.
@@ -59,7 +57,6 @@ Kind Regards
 
 4.6 The Committee may appoint one or more persons to the role of Fund Secretary.
 
-
 ## 5.0 Fund Secretary
 
 5.1 Is a person in good standing with TPF.
@@ -68,11 +65,11 @@ Kind Regards
 
 5.3 May be a person who is also a Committee member.
 
-5.4 The President, Treasurer, and Secretary of TPF may not be Committee Secretary, due to their special roles in this Charter.
-Performs duties as approved by the Committee.
+5.4 The President, Treasurer, and Secretary of TPF may not be Fund Secretary due to their special roles in this Charter.
 
 5.5 May receive compensation for their time and reimbursement for expenses required for the execution of their approved duties, as approved by the Committee and TPF Treasurer.
 
+5.6 Performs duties as approved by the Committee.
 
 ## 6.0 Committee Responsibilities
 
@@ -94,7 +91,6 @@ Performs duties as approved by the Committee.
  - Provide a public report to the Board every 6 months, including financials of The Fund
 
 6.5 Committee members agree to execute their responsibilities to the best of their abilities.
-
 
 ## 7.0 Committee Meetings
 
@@ -124,7 +120,6 @@ Performs duties as approved by the Committee.
 
 7.13 A person acting as proxy may not act as proxy for the same Committee member for more than one consecutive meeting.
 
-
 ## 8.0 How money contributed to the Fund will be used
 
 8.1 Money from the Fund is paid by the Treasurer of TPF to individuals or organizations as recommended by the Committee.
@@ -143,6 +138,16 @@ Performs duties as approved by the Committee.
 
 8.8 At the conclusion of the Fund, the Board agrees to settle all remaining liabilities and commitments, with any and all remaining money contributed to the Perl General Fund.
 
+8.9 Banking fees and charges, transaction fees and charges, interest payments, and taxes shall be handled as follows:
+
+  - As much as possible, all fees and charges related to recieving donations should be paid by the donor
+  - As much as possible, all fees and charges related to making payments should be paid by the Fund
+  - Fees and charges required to make payments are be considered to be part of each grant total
+  - When banked in a shared account with other TPF money, the Fund makes no claim on interest earned by it's money.
+  - When banked in a shared account with other TPF money, TPF Treasurer charges no account keeping fees are charged to the Fund.
+  - When banked in a dedicate account, the Fund recieves all interest paid by the banking institution as a donation from the Board.
+  - When banked in a dedicated account, all charges related to account keeping are charged to the Fund.
+  - Any and all taxes on payments are the responsibility of funding recipients.
 
 ## 9.0 Proposals for Funding
 
@@ -164,6 +169,10 @@ Performs duties as approved by the Committee.
 9.5 Committee members, TPF President, TPF Secretary and the Board members shall not approve payment for, review, or vote on Proposals submitted by themselves or members of their immediate family or organizations they or their immediate family have a commercial interest in. Instead, TPF President will appoint a Board member or TPF Secretary to act on the member's behalf and TPF Secretary will appoint a Board member to vote on TPF Presidents behalf.
 
 9.7 If a quorom cannot be established because of 9.5 then the Proposal is declined.
+
+9.8 The feasibility and costs associated with making payments must be considered when reviewing all proposals.
+
+9.9 Grants must not create an employee-employer relationship with TPF.
 
 ## 10. Amending This Charter
 
