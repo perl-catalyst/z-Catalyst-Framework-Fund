@@ -143,9 +143,9 @@ Kind Regards
   - As much as possible, all fees and charges related to recieving donations should be paid by the donor
   - As much as possible, all fees and charges related to making payments should be paid by the Fund
   - Fees and charges required to make payments are be considered to be part of each grant total
-  - When banked in a shared account with other TPF money, the Fund makes no claim on interest earned by it's money.
-  - When banked in a shared account with other TPF money, TPF Treasurer charges no account keeping fees are charged to the Fund.
-  - When banked in a dedicate account, the Fund recieves all interest paid by the banking institution as a donation from the Board.
+  - When banked in a shared account with other TPF money, the Fund makes no claim on interest earned by its money.
+  - When banked in a shared account with other TPF money, TPF Treasurer charges no account keeping fees to the Fund.
+  - When banked in a dedicated account, the Fund recieves all interest paid by the banking institution as a donation from the Board.
   - When banked in a dedicated account, all charges related to account keeping are charged to the Fund.
   - Any and all taxes on payments are the responsibility of funding recipients.
 
