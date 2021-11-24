@@ -65,7 +65,7 @@ Kind Regards
 
 5.3 May be a person who is also a Committee member.
 
-5.4 The President, Treasurer, and Secretary of TPF may not be Fund Secretary due to their special roles in this Charter.
+5.4 The Officers of TPF may not be Fund Secretary due to their special roles in this Charter.
 
 5.5 May receive compensation for their time and reimbursement for expenses required for the execution of their approved duties, as approved by the Committee and TPF Treasurer.
 
@@ -122,7 +122,7 @@ Kind Regards
 
 ## 8.0 How money contributed to the Fund will be used
 
-8.1 Money from the Fund is paid by the Treasurer of TPF to individuals or organizations as recommended by the Committee.
+8.1 Money from the Fund is paid by the Treasurer of TPF to individuals or organizations as requested by the Committee.
 
 8.2 Payments are to be made after a Proposal has been made to the Committee and approved by them.
 
@@ -132,7 +132,7 @@ Kind Regards
 
 8.5 Advance payments, milestone payments, and final payments shall be made at the discretion of the Committee.
 
-8.6 Individuals and organizations agree to make payment details available to TPF Treasurer and that payments are forfeited if unable to be made within 12 months of them being recommended and approved.
+8.6 Individuals and organizations agree to make payment details available to TPF Treasurer and that payments are forfeited if unable to be made within 12 months of them being requested and approved.
 
 8.7 If attribution of contributions to activities is required, contributions are spent on a first in first out basis.
 
@@ -186,4 +186,4 @@ Kind Regards
 
 10.5 Fund contributions may be refunded to contributors who do not endorse using their contributions under the new Charter.
 
-10.6 At the discretion of the Board, contributions who's Contributor cannot be contacted after due diligence and public notice, shall be dispersed to TPF general funds, or retained in the Fund under the new Charter.
+10.6 At the discretion of the Board, contributions whose Contributor cannot be contacted after due diligence and public notice, shall be dispersed to TPF general funds, or retained in the Fund under the new Charter.
