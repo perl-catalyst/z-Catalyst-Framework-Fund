@@ -21,7 +21,7 @@ Kind Regards
 
 1.1 The purpose of the Catalyst Framework Fund (the Fund) is to promote, develop, and document the Catalyst Framework.
 
-1.2 The Catalyst Framework (hereafter Catalyst) for the purposes of interpreting this document, is defined as being written in the Perl language, is available to download from the cpan.org software repository website, is published under the same terms as the Perl 5 interpreter at the time of the Funds inauguration, is software that in Perl terminology uses the Catalyst:: or CatalystX:: namespace, is a dependency of software using the Catalyst:: or CatalystX:: namespaces, or documentation related to the software mentioned if licensed under a permissive license.
+1.2 The Catalyst Framework (hereafter Catalyst) for the purposes of interpreting this document, is defined as being written in the Perl language, is available to download from the cpan.org software repository website, is published under the same terms as the Perl interpreter at the time of the Funds inauguration, is software that in Perl terminology uses the Catalyst:: or CatalystX:: namespace, is a dependency of software using the Catalyst:: or CatalystX:: namespaces, or documentation related to the software mentioned if licensed under a permissive license.
 
 1.3 This Charter document is a pledge to donors. It is not a bylaw.
 
