@@ -140,7 +140,7 @@ Kind Regards
 
 8.9 Banking fees and charges, transaction fees and charges, interest payments, and taxes shall be handled as follows:
 
-  - As much as possible, all fees and charges related to recieving donations should be paid by the donor
+  - As much as possible, all fees and charges related to receiving donations should be paid by the donor
   - As much as possible, all fees and charges related to making payments should be paid by the Fund
   - Fees and charges required to make payments are be considered to be part of each grant total
   - When banked in a shared account with other TPF money, the Fund makes no claim on interest earned by its money.
