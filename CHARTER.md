@@ -1,21 +1,4 @@
-Dear Members of The Perl Foundation Board,
-
-We propose for The Perl Foundation to establish a Catalyst Framework Fund and an associated Committee to administer it.
-
-The purpose of this fund is to promote, develop, and document the Catalyst Framework in the Perl language. The Administrative Committee would oversee activities related to raising funds and would decide how funds are used and dispensed, based upon the Fund's charter. The Perl Foundation would be the legal entity receiving and dispensing funds, providing the infrastructure in terms of banking etc. It would be called The Catalyst Framework Fund.
-
-In contrast to other funds, the Committee administering the Fund would publish a roadmap of items for which proposals would be solicited. The Committee would meet regularly to review & consider proposals.
-
-The Fund and Committee would have an initial 24 month charter, providing a public report to The Perl Foundation Board every 6 months. After which the fund will either be extended or dissolved with remaining funds dispersed to the Perl Maintenance Fund. This would be noted when donors contribute
-
-A draft charter follows.
-
-Kind Regards
-
-(etc)
-
-
-# Catalyst Framework Fund Charter (Draft)
+# Catalyst Framework Fund Charter
 
 ## 1.0 Purpose
 
